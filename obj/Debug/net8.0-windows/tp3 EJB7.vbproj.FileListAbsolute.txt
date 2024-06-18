@@ -1,0 +1,16 @@
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\obj\Debug\net8.0-windows\tp3_EJB7.Form1.resources
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\obj\Debug\net8.0-windows\tp3 EJB7.vbproj.GenerateResource.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\obj\Debug\net8.0-windows\tp3 EJB7.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\obj\Debug\net8.0-windows\tp3 EJB7.AssemblyInfoInputs.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\obj\Debug\net8.0-windows\tp3 EJB7.AssemblyInfo.vb
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\obj\Debug\net8.0-windows\tp3 EJB7.vbproj.CoreCompileInputs.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\bin\Debug\net8.0-windows\tp3 EJB7.exe
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\bin\Debug\net8.0-windows\tp3 EJB7.deps.json
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\bin\Debug\net8.0-windows\tp3 EJB7.runtimeconfig.json
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\bin\Debug\net8.0-windows\tp3 EJB7.dll
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\bin\Debug\net8.0-windows\tp3 EJB7.pdb
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\obj\Debug\net8.0-windows\tp3 EJB7.dll
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\obj\Debug\net8.0-windows\refint\tp3 EJB7.dll
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\obj\Debug\net8.0-windows\tp3 EJB7.pdb
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\obj\Debug\net8.0-windows\tp3 EJB7.genruntimeconfig.cache
+D:\UNI\SEGUNDO AÑO\PRIMER CUATRIMESTRE\Informatica 2\tp3\tp3 EJB7\obj\Debug\net8.0-windows\ref\tp3 EJB7.dll
