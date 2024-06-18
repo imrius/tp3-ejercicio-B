@@ -15,5 +15,6 @@
             End If
             ListBox1.Items.Add(num)
         Next
+        Label1.Text = suma & " Son pares Y El mayor es " & mayor & " En la posición " & posMayor
     End Sub
 End Class

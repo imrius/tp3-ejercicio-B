@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("tp3 EJB7"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a8dd84fcadb22b4d6a6467c0d3ba2829cce3f74"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e7298e20a8e2624b8631dc8ea753efad65e9c9e"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("tp3 EJB7"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("tp3 EJB7"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
